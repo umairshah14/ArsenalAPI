@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ARSENAL API 2.props" />
+</Project>
